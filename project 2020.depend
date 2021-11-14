@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1579798869 source:e:\project 2020\project 2020\file example 6.c
+	<stdio.h>
+	"student.h"
+
+1579797911 e:\project 2020\project 2020\student.h
+
+1579800162 source:e:\project 2020\project 2020\file example 7.c
+	<stdio.h>
+	<string.h>
+	"student.h"
+
+1579843458 source:e:\project 2020\project 2020\file example 10.c
+	<stdio.h>
+	"student.h"
+
+1579846845 source:e:\project 2020\project 2020\file example 11.c
+	<stdio.h>
+	<string.h>
+	"student.h"
+
+1580022926 source:e:\project 2020\file example 7.c
+	<stdio.h>
+	<string.h>
+	"student.h"
+
+1579797911 e:\project 2020\student.h
+
+1580024457 source:e:\project 2020\file example 9.c
+	<stdio.h>
+	"student.h"
+
+1580026928 source:e:\project 2020\file example 10.c
+	<stdio.h>
+	"student.h"
+
+1580031680 source:e:\project 2020\file example 12.c
+	<stdio.h>
+	"student.h"
+
